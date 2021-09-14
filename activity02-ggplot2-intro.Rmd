@@ -2,7 +2,6 @@
 title: "Activity 2"
 author: "Aaron Simot"
 output: github_document
-PAT: "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"
 ---
 
 In the R code chunk below, I am setting a global option for this `.Rmd` report.
